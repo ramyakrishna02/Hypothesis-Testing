@@ -1,6 +1,7 @@
 # Hypothesis-Testing
 
 It is a statistical method that is used in making statistical decisions using experimental data. It is basically an assumption that we make about the population parameter.
+
 eg.. Votes for the politician will be more than 60%
     (null hypo) H0 : Population of votes <= 60%
     (alter hypo) H1 : Population of votes > 60%
