@@ -2,14 +2,14 @@
 
 It is a statistical method that is used in making statistical decisions using experimental data. It is basically an assumption that we make about the population parameter.
 
-- Eg.. Votes for the politician will be more than 60%
+-> Eg.. Votes for the politician will be more than 60%
     - (null hypo) H0 : Population of votes <= 60%
     - (alter hypo) H1 : Population of votes > 60%
     
 - Null Hypothesis H0
-    Argument made so far, or hypothesis saying that there is no change or difference
+    - Argument made so far, or hypothesis saying that there is no change or difference
 - Alternative Hypothesis H1
-    New argument, that is a hypothesis that you want to prove with solid ground obtained from sample
+    - New argument, that is a hypothesis that you want to prove with solid ground obtained from sample
     
 ### Procedure of Hypothesis Testing
 The steps for hypothesis tests;
